@@ -1,4 +1,4 @@
-system_configuration:
+oro_system_configuration:
     groups:
         google_imap_settings:
             title: oro.imap.system_configuration.groups.google_imap_settings.title
